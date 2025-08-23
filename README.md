@@ -12,7 +12,6 @@ The data is from my Excel course, which provides a foundation in analyzing data 
 
 ### Dashboard File
 My final dashboard is in 
-<img width="1336" height="867" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/f28323c6-6758-47fd-91cd-415e6f40b7bd" />
 
 ### Excel Skills Used
 
