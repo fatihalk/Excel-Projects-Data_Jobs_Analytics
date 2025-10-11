@@ -36,7 +36,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img width="1336" height="867" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/a0d1d0cf-4253-495b-87af-35b53bdc7e1e" />
+<img src="https://github.com/user-attachments/assets/a0d1d0cf-4253-495b-87af-35b53bdc7e1e"  width="30%">
 
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
@@ -78,10 +78,11 @@ IF(
 
 🍽️ Background Table
 
-<img width="265" height="220" alt="background table" src="https://github.com/user-attachments/assets/74971bed-853f-41e7-ba01-eb634bc42ff1" />
+<img src="https://github.com/user-attachments/assets/74971bed-853f-41e7-ba01-eb634bc42ff1" width="50%">
 
 📉 Dashboard Implementation
-<img width="1148" height="1214" alt="dashboard impl" src="https://github.com/user-attachments/assets/79dd8233-a596-48c2-b143-9c17ef624b01" />
+
+<img src="https://github.com/user-attachments/assets/79dd8233-a596-48c2-b143-9c17ef624b01" width="50%">
 
 
 #### ⏰ Count of Job Schedule Type
@@ -95,13 +96,14 @@ IF(
 
 🍽️ Background Table
 
-<img width="265" height="220" alt="background table" src="https://github.com/user-attachments/assets/5aef7f9e-4a0b-4935-88c8-bafcea9226f8" />
-<img width="195" height="119" alt="BT2" src="https://github.com/user-attachments/assets/8a84334a-ca3d-4816-9a1c-901d4d2c7dbe" />
+<img src="https://github.com/user-attachments/assets/5aef7f9e-4a0b-4935-88c8-bafcea9226f8"  width="50%">
+
+<img src="https://github.com/user-attachments/assets/8a84334a-ca3d-4816-9a1c-901d4d2c7dbe"  width="50%">
 
 
 📉 Dashboard Implementation:
 
-<img width="942" height="1212" alt="DI2" src="https://github.com/user-attachments/assets/c64738f6-839e-4d3a-866a-5a0d3f143fa2" />
+<img src="https://github.com/user-attachments/assets/c64738f6-839e-4d3a-866a-5a0d3f143fa2"  width="50%">
 
 
 ### ❎ Data Validation
